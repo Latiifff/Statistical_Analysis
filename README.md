@@ -30,5 +30,5 @@ The dataset consists of features aimed at predicting patients at high risk of he
 **Results:**
 The linear regression model demonstrates statistical significance (F-statistic = 17.65, p-value < 0.05) and explains a moderate portion of variance in Heart Disease (R-squared = 53.2%). Independent variables collectively contribute to predicting Heart Disease.
 
-#### Conclusion 🎯
+#### 🎯 Conclusion 
 This repository provides insights into statistical analyses using Spearman correlation, Chi-square test, and Linear Regression methods on medical datasets. These analyses enhance understanding of relationships between medical factors and conditions, facilitating informed decision-making in healthcare contexts.
