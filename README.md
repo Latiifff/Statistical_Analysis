@@ -1,4 +1,4 @@
-# Statistical Analysis with Spearman Correlation, Chi-Square Test, and Linear Regression 
+# Statistical Analysis with Correlation Analysis, Chi-Square Test, and Linear Regression 
 This repository contains statistical analyses conducted on various datasets related to medical and health factors. The analyses include Spearman correlation, Chi-square test, and Linear Regression to explore relationships and predictive models related to heart attacks and other medical conditions.
 
 ## 📈 Correlation Analysis 
